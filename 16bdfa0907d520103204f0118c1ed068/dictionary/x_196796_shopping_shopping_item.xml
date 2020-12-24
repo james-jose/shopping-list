@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Shopping Item" max_length="40" name="x_196796_shopping_shopping_item" type="collection">
+    <element label="Shopping Item" max_length="40" name="x_196796_shopping_shopping_item" sizeclass="5" type="collection">
         <element attributes="edge_encryption_enabled=true" display="true" label="Item" max_length="125" name="item" type="string"/>
         <element label="Purchased" max_length="40" name="purchased" type="boolean"/>
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
